@@ -55,6 +55,7 @@ function App() {
 
       {/* <Bmi></Bmi><br /> */}
 
+      {/* calc water */}
       <Dringwater></Dringwater>
       
     </>
